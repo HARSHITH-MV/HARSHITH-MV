@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me - Don't reach me haha
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Weeb, Am a weeb, or am I?
+- ⚡ Fun fact: Weeb, Am a weeb, i am
 
 <!---
 HARSHITH-MV/HARSHITH-MV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
