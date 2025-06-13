@@ -1,10 +1,26 @@
-- 👋 Hi, HARSHITH-MV
-- 👀 I’m interested in Java Full Stack Development
-- 🌱 I’m currently learning Front End Dev 
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me - Don't reach me haha
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Weeb, Am a weeb, i am? idk
+# 👋 Hi, I'm Harshith MV!
+
+## 🚀 About Me
+- 👀 Interested in **Java Full Stack Development**
+- 🌱 Currently learning **Frontend Development**
+- 💞 Looking to collaborate on **interesting projects**
+- 📫 _How to reach me?_ Haha, _don’t reach me!_
+- 😄 Pronouns: *(Feel free to add yours!)*
+- ⚡ Fun fact: **Proud Weeb**—Anime is life! Or wait… am I too deep in this? 🤔
+
+## 🛠️ Skills & Tools
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Java, Spring Boot
+- **Databases**: MySQL, PostgreSQL
+- **Other Tools**: Git, Docker, VS Code
+
+## 📌 Looking for Collaborations?
+I'm always excited to build cool projects with like-minded developers. If you have an idea and want to collaborate, let’s make it happen! _(Or not, I guess.)_
+
+---
+
+This version maintains professionalism while keeping the fun and informal tone you originally had. Let me know if you'd like any adjustments!
+
 <!---
 HARSHITH-MV/HARSHITH-MV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
