@@ -18,8 +18,8 @@
 I'm always excited to build cool projects with like-minded developers. If you have an idea and want to collaborate, let’s make it happen! _(Or not, I guess.)_
 
 ---
-
-This version maintains professionalism while keeping the fun and informal tone you originally had. Let me know if you'd like any adjustments!
+## Daily Joke
+How do you comfort a JavaScript developer? You console them.
 
 <!---
 HARSHITH-MV/HARSHITH-MV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
