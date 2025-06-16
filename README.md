@@ -19,7 +19,9 @@ I'm always excited to build cool projects with like-minded developers. If you ha
 
 ---
 ## Daily Joke
-How do you comfort a JavaScript developer? You console them.
+- How do you comfort a JavaScript developer? You console them.
+- Why did the developer go broke? Because he used up all his cache.
+
 
 <!---
 HARSHITH-MV/HARSHITH-MV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
