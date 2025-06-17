@@ -19,6 +19,7 @@ I'm always excited to build cool projects with like-minded developers. If you ha
 
 ---
 ## Daily Joke
+- Why do programmers prefer dark mode? Because light attracts bugs
 - How do you comfort a JavaScript developer? You console them.
 - Why did the developer go broke? Because he used up all his cache.
 
