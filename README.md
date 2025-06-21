@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harshith MV!
+# 👋 Hi, I'm HMV!
 
 ## 🚀 About Me
 - 👀 Interested in **Java Full Stack Development**
