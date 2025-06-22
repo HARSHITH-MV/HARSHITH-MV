@@ -24,7 +24,7 @@ I'm always excited to build cool projects with like-minded developers. If you ha
 - Why did the developer go broke? Because he used up all his cache.
 - There are 10 types of people: those who understand binary and those who don’t.
 - Why was the code sad? It had a lot of bugs
-
+- Why was the code sad? It had a lot of bugs
 
 <!---
 HARSHITH-MV/HARSHITH-MV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
