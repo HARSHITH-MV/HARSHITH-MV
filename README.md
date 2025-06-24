@@ -25,7 +25,7 @@ I'm always excited to build cool projects with like-minded developers. If you ha
 - There are 10 types of people: those who understand binary and those who don’t.
 - Why was the code sad? It had a lot of bugs
 - Why was the computer cold? It left its Windows open.
-
+- Why don’t programmers like nature? — It has too many bugs.
 <!---
 HARSHITH-MV/HARSHITH-MV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
