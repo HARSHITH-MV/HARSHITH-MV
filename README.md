@@ -26,6 +26,7 @@ I'm always excited to build cool projects with like-minded developers. If you ha
 - Why was the code sad? It had a lot of bugs
 - Why was the computer cold? It left its Windows open.
 - Why don’t programmers like nature? — It has too many bugs.
+- Why do Java developers wear glasses? Because they don’t C#
 <!---
 HARSHITH-MV/HARSHITH-MV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
