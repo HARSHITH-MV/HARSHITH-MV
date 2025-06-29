@@ -28,6 +28,7 @@ I'm always excited to build cool projects with like-minded developers. If you ha
 - Why don’t programmers like nature? — It has too many bugs.
 - Why do Java developers wear glasses? Because they don’t C#
 - I told my computer I needed a break... > It said “You seem stressed. Want to install updates now?”
+- Why did the frontend developer break up with the backend developer? Because they didn’t get a response.
 <!---
 HARSHITH-MV/HARSHITH-MV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
