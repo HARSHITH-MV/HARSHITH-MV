@@ -1,35 +1,60 @@
-# 👋 Hi, I'm H M V!
+# 👋 Hey there! I'm H M V
 
-## 🚀 About Me
-- 👀 Interested in **Java Full Stack Development**
-- 🌱 Currently learning **Frontend Development**
-- 💞 Looking to collaborate on **interesting projects**
-- 📫 _How to reach me?_ Haha, _don’t reach me!_
-- 😄 Pronouns: *(Feel free to add yours!)*
-- ⚡ Fun fact: **Proud Weeb**—Anime is life! Or wait… am I too deep in this? 🤔
+## 🎯 Aspiring Java Full Stack Developer
 
-## 🛠️ Skills & Tools
+I'm currently a passionate student on a mission to become a **Java Full Stack Developer**. I’m steadily building up my skills across the stack—from crafting beautiful frontends to developing robust backend systems.
+
+---
+
+## 🧠 What I’m Learning
+
+- 🌱 Currently diving deep into **Frontend Development** (React, JavaScript, CSS)
+- 🔧 Sharpening my **Java & Spring Boot** skills on the backend
+- 🗃️ Exploring database fundamentals with **MySQL & PostgreSQL**
+- 🐳 Learning tools like **Git** and **Docker** for real-world development workflows
+
+---
+
+## 💡 What I’m Looking For
+
+- 🤝 Open to collaborating on beginner-friendly or real-world projects
+- 💬 Always happy to chat about **coding**, **tech**, or even **anime**
+- 📬 _DMs are welcome—or maybe I’ll reach you first!_
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools:**
+
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Java, Spring Boot
 - **Databases**: MySQL, PostgreSQL
-- **Other Tools**: Git, Docker, VS Code
-
-## 📌 Looking for Collaborations?
-I'm always excited to build cool projects with like-minded developers. If you have an idea and want to collaborate, let’s make it happen! _(Or not, I guess.)_
+- **Dev Tools**: Git, Docker, VS Code, Postman
 
 ---
-## Daily Joke
-- Why do programmers prefer dark mode? Because light attracts bugs
-- How do you comfort a JavaScript developer? You console them.
-- Why did the developer go broke? Because he used up all his cache.
-- There are 10 types of people: those who understand binary and those who don’t.
-- Why was the code sad? It had a lot of bugs
-- Why was the computer cold? It left its Windows open.
-- Why don’t programmers like nature? — It has too many bugs.
-- Why do Java developers wear glasses? Because they don’t C#
-- I told my computer I needed a break... > It said “You seem stressed. Want to install updates now?”
-- Why did the frontend developer break up with the backend developer? Because they didn’t get a response.
-<!---
-HARSHITH-MV/HARSHITH-MV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 👣 My GitHub Journey
+
+> Here's what I’ve been working on recently 👇  
+> _(Live stats generated directly from my GitHub activity)_
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHITH-MV&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HARSHITH-MV&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=HARSHITH-MV&mode=daily&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=HARSHITH-MV&theme=dracula&column=3&row=1" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHITH-MV&radius=10&theme=react&area=true" height="300" />
+</p>
+
+---
+
+## 😄 Fun Fact
+
+I’m a total **anime nerd** 🎌—probably watching an episode between coding sessions!
+
+---
+
+<!-- Replace YourGitHubUsername with your actual GitHub username -->
