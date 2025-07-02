@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm H M V
+# 👋 Hey there! I'm HMV
 
 ## 🎯 Aspiring Java Full Stack Developer
 
