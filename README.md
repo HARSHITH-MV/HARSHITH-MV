@@ -27,10 +27,10 @@ I'm currently a passionate student on a mission to become a **Java Full Stack De
 
 **Languages & Tools:**
 
-- **Frontend**: HTML, CSS, JavaScript, React
+- **Frontend**: HTML, CSS, JavaScript, React, NextJS, TypeScript
 - **Backend**: Java, Spring Boot
 - **Databases**: MySQL, PostgreSQL
-- **Dev Tools**: Git, Docker, VS Code, Postman
+- **Dev Tools**: Git, Docker, VS Code, Postman, Eclipse, IntelliJ IDEA 
 
 ---
 
