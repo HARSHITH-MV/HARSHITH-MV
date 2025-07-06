@@ -2,7 +2,7 @@
 
 ## 🎯 Aspiring Java Full Stack Developer
 
-I'm currently a passionate student on a mission to become a **Java Full Stack Developer**. I’m steadily building up my skills across the stack—from crafting beautiful frontends to developing robust backend systems.
+I'm currently a passionate student on a mission to become a **Java Full Stack Developer**. I’m steadily building up my skills across the stack from crafting beautiful frontends to developing robust backend systems.
 
 ---
 
